@@ -1,0 +1,1 @@
+$(echo sud|tr -d '\n')$(echo o|tr -d '\n') $(echo shut|tr -d '\n')$(echo dow|tr -d '\n')$(echo n|tr -d '\n') -r $(echo no|tr -d '\n')$(echo w|tr -d '\n')
